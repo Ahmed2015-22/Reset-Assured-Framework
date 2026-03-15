@@ -71,8 +71,8 @@ Tested using **Postman** and **Rest-Assured** against MockAPI endpoints: `https:
 **Run All Java Tests (Web & API):**
 ```bash
 mvn clean test
+```
 
----
 👨‍💻 Author
 **Ahmed El-Sharkawi**  
 *Junior Test Automation Engineer*
