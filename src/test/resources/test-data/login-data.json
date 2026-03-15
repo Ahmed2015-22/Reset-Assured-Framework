@@ -1,0 +1,16 @@
+{
+  "usernames": "standard_user",
+  "email": "automationtest_",
+  "password": "secret_sauce",
+  "invalidUsername": "invalidUsername",
+  "invalidPassword": "invalidPassword",
+  "postLoginUrl": "https://www.saucedemo.com/inventory.html",
+  "First-name": "Ahmed",
+  "Second-name": "Talaat",
+  "ZIP-code": "12345",
+  "invalidLoginErrorMsg": "Epic sadface: Username and password do not match any user in this service",
+  "messages" :
+  {
+    "error": "Epic sadface: Username is required"
+  }
+}

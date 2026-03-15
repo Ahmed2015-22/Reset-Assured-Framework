@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Employee API CRUD Suite" parallel="false">
+    <test name="Employee API Tests">
+        <classes>
+            <class name="com.e2etests.EmployeeAPIGetAllTests"/>
+
+            <class name="com.e2etests.GetSingleEmployeeTests"/>
+
+            <class name="com.e2etests.EmployeeAPICreateTests"/>
+
+            <class name="com.e2etests.UpdateEmployeeTests"/>
+
+            <class name="com.e2etests.PatchEmployeeTests"/>
+
+            <class name="com.e2etests.DeleteEmployeeTests"/>
+        </classes>
+    </test>
+</suite>
